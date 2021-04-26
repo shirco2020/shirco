@@ -1,0 +1,24 @@
+number_id,name,maintennance_date ,department_number_id
+12340,Blood Pressure Monitor,20.12.21,100
+60332,Blood Pressure Monitor,20.12.22,102
+32819,Defibrillator,20.12.23,105
+33211,Defibrillator,20.12.24,109
+37483,Defibrillator,20.12.25,102
+19233,Cardiotocography,20.12.26,106
+66438,Cardiotocography,20.12.27,106
+11293,Cardiotocography,20.12.21,106
+64773,Kangaroo,20.12.22,100
+45452,Kangaroo,20.12.23,102
+47874,X-ray,20.12.24,105
+43224,X-ray,20.12.25,100
+85994,X-ray,20.12.26,107
+56522,Saturation,20.12.27,110
+48373,Saturation,20.12.21,100
+22124,Saturation,20.12.22,109
+42884,Saturation,20.12.23,105
+35172,Saturation,20.12.24,100
+67872,Monitor,20.12.25,107
+48724,Monitor,20.12.26,110
+76483,Monitor,20.12.27,109
+99483,Monitor,20.12.21,106
+29998,Monitor,20.12.22,107
